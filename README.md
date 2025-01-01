@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a consultant at KLM (Via IO digtial)<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on Any Cool project! (ping me and let's get a coffee together)<br><br>💬 Ask me about React, Vue, Angular, JS, Python, AWS, Cloud<br><br>📫 How to reach me mhos.malek@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/mhmalek
+🔭 I’m looking to collaborate on Any Cool project! (ping me and let's get a coffee together)<br><br>💬 Ask me about React, Vue, Angular, JS, Python, AWS, Cloud<br><br>📫 How to reach me mhos.malek@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/mhmalek
 
 
 ## 🌐 Socials:
